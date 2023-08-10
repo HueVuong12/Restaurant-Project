@@ -505,7 +505,9 @@ footer.nb-footer .copyright p {
 .header-login-item a:hover {
     color: #c38f36;
 }
-
+.button2-boday{
+    padding-bottom: 40px;
+}
 .button2-boday a {
     color: white;
 }
@@ -513,6 +515,47 @@ footer.nb-footer .copyright p {
 .button2-boday a:hover {
     color: white;
 }
-.body-1:hover{
+
+.button2-boday button{
+    margin-top: 15px;
+}
+
+.body-1:hover {
     color: #c38f36;
+}
+
+.body-2 {
+    margin: 0 auto;
+    max-width: 750px;
+    margin-top: 35px;
+    text-align: center;
+    box-shadow: 0 0 20px #C0C0C0;
+}
+
+.input-body {
+    width: 80%;
+    padding: 1.0%;
+    border: initial;
+}
+
+.button-body {
+    width: 80%;
+    padding: 1.5%;
+    color: white;
+    background-color: #c38f36;
+    border-style: hidden;
+    margin: 15px 0px 15px 0px;
+}
+
+.button-body:hover {
+    background-color: white;
+    color: #c38f36;
+    border: 1px;
+}
+
+.input-body input{
+width: 102%;
+margin-left: 70px;
+padding: 1.5%;
+margin-bottom: 15px;
 }
