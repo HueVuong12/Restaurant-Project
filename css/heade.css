@@ -507,13 +507,16 @@ footer.nb-footer .copyright p {
 }
 .button2-boday{
     padding-bottom: 40px;
+    border: transparent;
 }
 .button2-boday a {
     color: white;
+    border: transparent;
 }
 
 .button2-boday a:hover {
     color: white;
+    border: transparent;
 }
 
 .button2-boday button{
